@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d7dca1a4dd6c7137",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31fb0370417dc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "166b1c6201320daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07.01 Date Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.01 Date Objects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a19330b056aa3075",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "90659a7bca43b7ff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9da5fe9059ca3e94",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Number",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b84e5fc9b736b208",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b1c3323438bcff06",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "372f1b3047b28059",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4d2b4e6849fabc09",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f4abaa7feec977f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "JavaScript/Junior/02.02 Literals.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "523b8583b279cb52",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "30ce513b8975229e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "166b1c6201320daa",
+  "lastOpenFiles": [
+    "JavaScript/Syntax/new Date().md",
+    "07.01 Date Objects.md",
+    "JavaScript/Junior/06.03 String Objects.md",
+    "JavaScript/Junior/00.00 Table of Content.md",
+    "JavaScript/Junior/06.02 Math Object.md",
+    "JavaScript/Junior/06.01 Numeric Separators.md",
+    "JavaScript/Junior/04.03 IIFE.md",
+    "JavaScript/Junior/04.02 Recursive Function.md",
+    "JavaScript/Junior/04.01 Functions.md",
+    "JavaScript/Junior/03.01 Exception Types.md",
+    "JavaScript/Junior/02.02 Literals.md",
+    "JavaScript/Junior/02.01 String to Number.md",
+    "JavaScript/Junior/01.03 Constants.md",
+    "JavaScript/Examples/Constant.md",
+    "JavaScript/Junior/01.02 Variable Hoisting.md",
+    "JavaScript/Junior/01.01 Variable Scopes.md",
+    "JavaScript/Examples/Block Scope.md",
+    "JavaScript/Examples/Global Scope.md",
+    "Numeric Separators.md",
+    "JavaScript/Junior/04.05 Argument Object.md",
+    "JavaScript/Examples/Hoisting.md",
+    "JavaScript/Junior/05.03 Spread Operator.md",
+    "JavaScript/Junior/05.02 Fallback Operators.md",
+    "JavaScript/Examples/Rest Operator.md",
+    "JavaScript/Examples/Spread Operator.md",
+    "JavaScript/Junior/04.04 Closures.md",
+    "JavaScript/Untitled",
+    "JavaScript/Junior/Variable Scopes",
+    "JavaScript/Definition",
+    "JavaScript/Syntax",
+    "JavaScript/Examples",
+    "JavaScript/Junior",
+    "JavaScript"
+  ]
+}

@@ -1,0 +1,4 @@
+**Syntax**
+```js
+parseInt()
+```
