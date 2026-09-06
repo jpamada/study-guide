@@ -1,3 +1,5 @@
+#### Examples
+
 **parseInt()**
 Best practice is to use radix parameter.
 ```js

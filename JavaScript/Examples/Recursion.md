@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 ```js
 function factorial(n) {

@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 This will return an error because there is no student with id of 3.
 ```js

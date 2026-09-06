@@ -1,7 +1,12 @@
+#### Examples
+
 **Example 1**
 Both `let` and `const` can't be the same name as the function in the same scope.
 ```javascript
-function f(){...}
+function f() {
+	// do something
+}
+
 const f = 123
 ```
 

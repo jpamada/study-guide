@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 Creates shadowing that declares inner variable the same name as outer variable.
 ```js

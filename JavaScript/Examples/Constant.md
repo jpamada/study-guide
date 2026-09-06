@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 Valid because `const` does NOT prevent mutation.
 ```javascript

@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 ```js
 throw "Error2"; // String type
@@ -13,5 +15,4 @@ throw {
 ___
 [[03.01 Exception Types]]
 
-Syntax
 [[throw]]

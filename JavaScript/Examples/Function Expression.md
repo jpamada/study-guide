@@ -1,3 +1,5 @@
+#### Examples
+
 **Example 1**
 ```js
 const greet = function () {
