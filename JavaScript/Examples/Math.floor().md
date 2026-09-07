@@ -1,5 +1,21 @@
+#### Definition
+
+**Math.floor()**
+
+___
+#### Syntax
+
+**Syntax 1**
 ```js
-Math.floor(Math.random() * 10);
+
+```
+
+___
+#### Examples
+
+**Example 1**
+```js
+
 ```
 
 ___

@@ -11,4 +11,4 @@ const regex = new RegExp("hello");
 ```
 
 ___
-[[02.02 Literals]] | [[08.01 Regular Expressions]]
+[[02.02 Literals]] | [[08.01 Regular Expression]]

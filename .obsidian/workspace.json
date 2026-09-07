@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Junior/07.01 Date Objects.md",
+                "file": "JavaScript/Junior/01.01 Variable Scopes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.01 Date Objects"
+              "title": "01.01 Variable Scopes"
             }
           }
         ]
@@ -191,31 +191,31 @@
   },
   "active": "dc2b633588ec3f39",
   "lastOpenFiles": [
-    "JavaScript/Syntax/new Date().md",
+    "JavaScript/Junior/00.00 Table of Contents.md",
+    "JavaScript/Junior/09.01 Array Methods.md",
+    "JavaScript/Syntax/Array.every().md",
+    "JavaScript/Junior/08.01 Regular Expression.md",
+    "JavaScript/Examples/Regular Expression.md",
     "JavaScript/Junior/07.01 Date Objects.md",
     "JavaScript/Junior/06.03 String Objects.md",
     "JavaScript/Junior/06.02 Math Object.md",
-    "JavaScript/Junior/00.00 Table of Contents.md",
-    "JavaScript/Junior/01.01 Variable Scopes.md",
-    "JavaScript/Examples/Block Scope.md",
-    "JavaScript/Examples/Global Scope.md",
-    "JavaScript/Examples/Math.floor().md",
     "JavaScript/Junior/06.01 Numeric Separators.md",
     "JavaScript/Examples/Numeric Separators.md",
     "JavaScript/Junior/05.03 Spread Operator.md",
     "JavaScript/Junior/05.02 Fallback Operators.md",
     "JavaScript/Junior/05.01 Optional Chaining.md",
+    "JavaScript/Examples/Optional Chaining.md",
     "JavaScript/Junior/04.05 Argument Object.md",
     "JavaScript/Examples/Rest Operator.md",
-    "JavaScript/Examples/Spread Operator.md",
-    "JavaScript/Examples/Nullish Coalescing.md",
-    "JavaScript/Examples/Logical Or.md",
-    "JavaScript/Examples/Optional Chaining.md",
     "JavaScript/Examples/Parameter.md",
-    "JavaScript/Examples/Argument Object.md",
+    "JavaScript/Examples/Paramater.md",
     "JavaScript/Junior/04.04 Closures.md",
     "JavaScript/Examples/Closures.md",
     "JavaScript/Junior/04.03 IIFE.md",
-    "JavaScript/Examples/IIFE.md"
+    "JavaScript/Examples/IIFE.md",
+    "JavaScript/Junior/04.02 Recursive Function.md",
+    "JavaScript/Junior/04.01 Functions.md",
+    "JavaScript/Junior/03.01 Exception Types.md",
+    "JavaScript/Junior/02.02 Literals.md"
   ]
 }
