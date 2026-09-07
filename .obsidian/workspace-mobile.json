@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.01 Date Objects.md",
+                "file": "08.01 Regular Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.01 Date Objects"
+              "title": "08.01 Regular Expressions"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JavaScript/Junior/02.02 Literals.md",
+            "file": "08.01 Regular Expressions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,32 +173,32 @@
   },
   "active": "166b1c6201320daa",
   "lastOpenFiles": [
-    "JavaScript/Syntax/new Date().md",
-    "07.01 Date Objects.md",
+    "Creating Regex.md",
+    "JavaScript/Junior/02.02 Literals.md",
+    "08.01 Regular Expressions.md",
+    "JavaScript/Junior/07.01 Date Objects.md",
     "JavaScript/Junior/06.03 String Objects.md",
-    "JavaScript/Junior/00.00 Table of Content.md",
+    "JavaScript/Junior/00.00 Table of Contents.md",
+    "JavaScript/Junior/01.01 Variable Scopes.md",
     "JavaScript/Junior/06.02 Math Object.md",
+    "JavaScript/Examples/Closures.md",
+    "JavaScript/Junior/00.00 Table of Content.md",
+    "07.01 Date Objects.md",
+    "JavaScript/Syntax/new Date().md",
     "JavaScript/Junior/06.01 Numeric Separators.md",
     "JavaScript/Junior/04.03 IIFE.md",
     "JavaScript/Junior/04.02 Recursive Function.md",
     "JavaScript/Junior/04.01 Functions.md",
     "JavaScript/Junior/03.01 Exception Types.md",
-    "JavaScript/Junior/02.02 Literals.md",
     "JavaScript/Junior/02.01 String to Number.md",
     "JavaScript/Junior/01.03 Constants.md",
     "JavaScript/Examples/Constant.md",
     "JavaScript/Junior/01.02 Variable Hoisting.md",
-    "JavaScript/Junior/01.01 Variable Scopes.md",
     "JavaScript/Examples/Block Scope.md",
     "JavaScript/Examples/Global Scope.md",
     "Numeric Separators.md",
     "JavaScript/Junior/04.05 Argument Object.md",
     "JavaScript/Examples/Hoisting.md",
-    "JavaScript/Junior/05.03 Spread Operator.md",
-    "JavaScript/Junior/05.02 Fallback Operators.md",
-    "JavaScript/Examples/Rest Operator.md",
-    "JavaScript/Examples/Spread Operator.md",
-    "JavaScript/Junior/04.04 Closures.md",
     "JavaScript/Untitled",
     "JavaScript/Junior/Variable Scopes",
     "JavaScript/Definition",
