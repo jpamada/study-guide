@@ -1,7 +1,18 @@
-**Syntax**
+#### Examples
+
+**Example 1**
 ```js
-throw expression;
+throw "Error2"; // String type
+throw 42; // Number type
+throw true; // Boolean type
+throw {
+  toString() {
+    return "I'm an object!";
+  },
+};
 ```
 
 ___
-[[Throw Statements]]
+[[03.01 Exception Types]]
+
+[[JavaScript/Syntax/throw]]

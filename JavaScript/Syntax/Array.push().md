@@ -22,4 +22,4 @@ myArray.push("3");
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

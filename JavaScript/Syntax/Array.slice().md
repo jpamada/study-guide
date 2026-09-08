@@ -26,4 +26,4 @@ arr = arr.slice(1, 4);
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

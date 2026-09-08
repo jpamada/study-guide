@@ -30,4 +30,4 @@ const arr2 = a1.map(
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

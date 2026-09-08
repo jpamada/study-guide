@@ -22,3 +22,4 @@ Number(undefined);      // NaN
 ```
 
 ___
+[[02.01 String to Number]]

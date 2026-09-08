@@ -22,3 +22,4 @@ parseInt("101", 16); // 257
 ```
 
 ___
+[[02.01 String to Number]]

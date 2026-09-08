@@ -24,3 +24,4 @@ parseFloat("3.14some characters");
 ```
 
 ___
+[[02.01 String to Number]]

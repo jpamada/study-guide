@@ -40,4 +40,4 @@ nums.sort((a, b) => a - b);
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

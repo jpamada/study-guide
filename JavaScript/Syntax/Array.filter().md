@@ -32,4 +32,4 @@ const arr2 = a1.filter(
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

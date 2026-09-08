@@ -28,4 +28,4 @@ arr.forEach((element) => {
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]

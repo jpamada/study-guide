@@ -30,4 +30,4 @@ arr.splice(1, 2, "a", "b");
 ```
 
 ___
-[[09.01 Array Methods]]
+[[10.01 Array Methods]]
