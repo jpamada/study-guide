@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.01 Regular Expressions.md",
+                "file": "Four Pillars of OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.01 Regular Expressions"
+              "title": "Four Pillars of OOP"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "08.01 Regular Expressions.md",
+            "file": "Inheritance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,38 +173,40 @@
   },
   "active": "166b1c6201320daa",
   "lastOpenFiles": [
+    "Inheritance.md",
+    "Four Pillars of OOP.md",
+    "Basic Concepts.md",
+    "Methods.md",
+    "SD - CSharp/Untitled.md",
+    "Object.md",
+    "SD - CSharp/Object Oriented Programming.md",
+    "Attributes/Properties.md",
+    "Class.md",
+    "Attributes",
+    "SD - JavaScript/Junior/11.01 Map Objects.md",
+    "SD - JavaScript/Syntax/Map().md",
+    "SD - JavaScript/Junior/01.03 Constants.md",
+    "SD - CSharp",
+    "Module Scope.md",
+    "SD - JavaScript/Junior/01.02 Variable Hoisting.md",
+    "SD - JavaScript/Junior/01.01 Variable Scopes.md",
+    "SD - JavaScript/Examples/Block Scope.md",
+    "SD - JavaScript/Examples/Global Scope.md",
+    "SD - JavaScript/Junior/00.00 Table of Contents.md",
+    "SD - JavaScript/Junior/05.01 Optional Chaining.md",
+    "JavaScript/Junior/09.01 Array Methods.md",
+    "SD - JavaScript/Syntax/Array.concat().md",
     "Creating Regex.md",
-    "JavaScript/Junior/02.02 Literals.md",
+    "SD - JavaScript/Junior/02.02 Literals.md",
     "08.01 Regular Expressions.md",
     "JavaScript/Junior/07.01 Date Objects.md",
     "JavaScript/Junior/06.03 String Objects.md",
-    "JavaScript/Junior/00.00 Table of Contents.md",
-    "JavaScript/Junior/01.01 Variable Scopes.md",
-    "JavaScript/Junior/06.02 Math Object.md",
-    "JavaScript/Examples/Closures.md",
-    "JavaScript/Junior/00.00 Table of Content.md",
-    "07.01 Date Objects.md",
-    "JavaScript/Syntax/new Date().md",
-    "JavaScript/Junior/06.01 Numeric Separators.md",
-    "JavaScript/Junior/04.03 IIFE.md",
-    "JavaScript/Junior/04.02 Recursive Function.md",
-    "JavaScript/Junior/04.01 Functions.md",
-    "JavaScript/Junior/03.01 Exception Types.md",
-    "JavaScript/Junior/02.01 String to Number.md",
-    "JavaScript/Junior/01.03 Constants.md",
-    "JavaScript/Examples/Constant.md",
-    "JavaScript/Junior/01.02 Variable Hoisting.md",
-    "JavaScript/Examples/Block Scope.md",
-    "JavaScript/Examples/Global Scope.md",
-    "Numeric Separators.md",
-    "JavaScript/Junior/04.05 Argument Object.md",
-    "JavaScript/Examples/Hoisting.md",
     "JavaScript/Untitled",
     "JavaScript/Junior/Variable Scopes",
     "JavaScript/Definition",
-    "JavaScript/Syntax",
-    "JavaScript/Examples",
-    "JavaScript/Junior",
-    "JavaScript"
+    "SD - JavaScript/Syntax",
+    "SD - JavaScript/Examples",
+    "SD - JavaScript/Junior",
+    "SD - JavaScript"
   ]
 }
