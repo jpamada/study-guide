@@ -3,23 +3,6 @@
 **Instantiate**
 - to create an object from a class
 
-**FOUR PILLARS**
-**Inheritance**
-- children class inherits attributes and methods from the parent class
-
-**Abstraction**
-- hides complex logic
-- similar to inheritance but can use policy if `abstract class` is used 
-
-**Encapsulation**
-- hides data (private attributes)
-- control access through methods
-- add validation
-- getters and setters
-
-**Polymorphism**
-- objects can be treated a group based on their parent class
-- happens when objects are accessed via inheritance or interfaces.
 
 **ADVANCE**
 **`this`**
