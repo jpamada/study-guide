@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME - Employment/Interview/Untitled.md",
+                "file": "SD - CSharp/Examples/Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Abstraction"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.30001831054688,
-    "collapsed": true
+    "width": 250.30001831054688
   },
   "right": {
     "id": "db4d611d54c1204d",
@@ -206,41 +205,41 @@
   },
   "active": "47785cf4e31a49fd",
   "lastOpenFiles": [
+    "ME - Employment/Interview Questions/Strengths and Weaknesses.md",
+    "ME - Employment/Interview Questions/Tell Me About Your Project.md",
+    "ME - Employment/Interview Questions/Tell Me About Yourself.md",
+    "ME - Employment/Interview Questions/What did you do after Graduation.md",
+    "ME - Employment/Interview Questions/What Did You Do During Your Internship.md",
+    "ME - Employment/Interview Questions/What's your biggest regret.md",
+    "ME - Employment/Interview Questions/Why Should We Hire You.md",
+    "ME - Employment/Formalities/After The Interview.md",
+    "ME - Employment/Formalities/During The Interview.md",
+    "ME - Employment/Formalities/Greetings.md",
+    "SD - React/Syntax/useMemo.md",
+    "SD - React/Untitled/Performance Hooks.md",
+    "SD - JavaScript/Junior/02.02 Literals.md",
+    "ME - Employment/Benefits.md",
+    "ME - Employment/Interview Questions/Untitled.md",
+    "ME - Employment/Interview Questions/Untitled 1.md",
+    "ME - Employment/Interview Questions/Untitled 2.md",
+    "ME - Employment/Formalities",
     "SD - CSharp/Examples/Properties.md",
     "SD - React/Syntax/useCallback.md",
     "SD - React/Untitled/Hooks.md",
     "SD - React/Syntax",
-    "SD - React/Untitled/Performance Hooks.md",
-    "SD - React/Syntax/useMemo.md",
     "SD - React/Syntax/useEffect.md",
     "SD - React/Untitled/Effect Hooks.md",
     "SD - React/Syntax/useRef.md",
     "SD - React/Untitled/Ref Hooks.md",
     "SD - React/Untitled/State Hooks.md",
     "SD - React/Syntax/useReducer.md",
-    "SD - React/Untitled/Context Hooks.md",
-    "SD - React/Syntax/useContext.md",
-    "SD - JavaScript/Syntax/Array.flatMap().md",
     "SD - React/Untitled",
     "SD - React",
     "SReact",
-    "SD - JavaScript/Junior/10.01 Array Methods.md",
-    "SD - JavaScript/Examples/Array Transformation.md",
-    "SD - JavaScript/Junior/10.02 Array Transformation.md",
-    "SD - JavaScript/Junior/07.01 String Objects.md",
-    "SD - JavaScript/Junior/08.01 Date Objects.md",
-    "SD - JavaScript/Junior/06.02 Math Object.md",
-    "SD - JavaScript/Junior/04.05 Argument Object.md",
-    "SD - JavaScript/Junior/02.02 Literals.md",
-    "SD - CSharp/Placeholder/Four Pillars of OOP.md",
-    "SD - CSharp/Placeholder/Basic Concepts.md",
-    "SD - CSharp/Examples/Instance.md",
-    "SD - CSharp/Examples/this.md",
     "SD - CSharp/Placeholder",
     "SD - CSharp/Examples",
     "Employment/Interview",
     "Employment/Salary and Payment",
-    "Employment/Contracts",
-    "Employment/Policies"
+    "Employment/Contracts"
   ]
 }
