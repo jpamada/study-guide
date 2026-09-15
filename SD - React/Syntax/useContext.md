@@ -45,7 +45,8 @@ function MyProvider({ children }) {
 
 **Provider + Custom Hook**
 ```jsx
-const MyContext = createContext(null);
+const MyContext = 
+  createContext(null);
 
 export function MyProvider({ 
 	children 
@@ -71,7 +72,7 @@ export function useMyContext() {
 ```jsx
 export default function App() {
   const { value } = 
-	  useMyContext();
+    useMyContext();
 }
 ```
 

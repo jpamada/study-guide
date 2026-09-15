@@ -12,7 +12,7 @@ ___
 abstract class ParentClass
 {
     public abstract 
-	    ReturnType MethodName();
+	  ReturnType MethodName();
 }
 
 class ChildClass : ParentClass
@@ -25,7 +25,7 @@ class ChildClass : ParentClass
 }
 
 ParentClass objectName = 
-	new ChildClass();
+new ChildClass();
 
 objectName.MethodName();
 ```

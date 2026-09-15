@@ -11,7 +11,8 @@ A child class must implement abstract methods.
 ```c#
 abstract class ParentClass
 {
-    public abstract void MethodName();
+  public abstract void 
+  MethodName();
 
     public void AnotherMethod()
     {
@@ -21,7 +22,8 @@ abstract class ParentClass
 
 class ChildClass : ParentClass
 {
-    public override void MethodName()
+    public override void 
+    MethodName()
     {
         // Implementation
     }
@@ -34,22 +36,25 @@ ___
 ```c#
 abstract class Animal
 {
-    public abstract void MakeSound();
+  public abstract void 
+  MakeSound();
 }
 
 class Dog : Animal
 {
-    public override void MakeSound()
+    public override void 
+    MakeSound() 
     {
-        Console.WriteLine("Woof!");
+      Console.WriteLine("Woof!");
     }
 }
 
 class Cat : Animal
 {
-    public override void MakeSound()
+    public override void 
+    MakeSound()
     {
-        Console.WriteLine("Meow!");
+      Console.WriteLine("Meow!");
     }
 }
 ```
