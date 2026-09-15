@@ -1,3 +1,0 @@
-- After graduation, instead of taking a break. I immediately focus on my resume, LinkedIn, and upskilling
-- I mostly develop new things like websites and mobile applications
-- Use key points instead of memorization
