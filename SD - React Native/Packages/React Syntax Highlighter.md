@@ -1,0 +1,4 @@
+**TypeScript**
+```
+declare module "react-syntax-highlighter/dist/cjs/styles/hljs";
+```

@@ -1,0 +1,3 @@
+```ts
+format(string | null)
+```
