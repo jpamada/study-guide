@@ -31,4 +31,4 @@ ___
 Maps an animated value from one numeric range to another output range. Useful when the value corresponds to a string like background color.
 
 ___
-[[xx.01 Animated|Prev]] | [[xx.03 Animated Components|Next]]
+[[Animated|Prev]] | [[xx.03 Animated Components|Next]]

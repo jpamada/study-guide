@@ -1,14 +1,18 @@
 **Urgent**
+
+**Ongoing**
 - [ ] Allow change position
-- [ ] Remove default on category if empty and there is another category
-- [ ] Add reset data
 - [ ] Add calendar picker
-- [ ] Add image handling
-- [ ] Fix currently tracking incorrect answers in logs
 - [ ] make it use space-repetition
-- [ ] The logs get deleted if he subject/lesson is deleted
 - [ ] Add volume settings and mute
 - [ ] Add bottomsheet drag down
-**Ongoing**
+- [ ] Add skeleton
+- [ ] Add overwrite warning when restoring data
+- [ ] Add splash art and icon
 
 **Completed**
+- [x] Add image handling
+- [x] Remove default on category if empty and there is another category
+- [x] The logs get deleted if he subject/lesson is deleted
+- [x] Fix currently tracking incorrect answers in logs
+- [x] Add reset data

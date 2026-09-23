@@ -13,6 +13,7 @@ ___
 ##### Syntax
 
 **Basic Syntax**
+Because a function body `{}` is added, return is required. Prefer it for readability.
 ```jsx
 const memoizedValue = useMemo(() => {
   return calculation;
@@ -20,6 +21,7 @@ const memoizedValue = useMemo(() => {
 ```
 
 **Basic Syntax (Shorter)**
+Automatically returns the calculation.
 ```jsx
 const memoizedValue = useMemo(
   () => calculation,
