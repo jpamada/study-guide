@@ -8,3 +8,6 @@
 	"android.permission.RECORD_AUDIO"
 ]
 ```
+
+___
+[[Permissions]]

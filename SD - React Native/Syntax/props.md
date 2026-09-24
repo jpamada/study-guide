@@ -33,4 +33,4 @@ function Child({ onLongPress }: ChildProps) {
 ```
 
 ___
-[[01.xx Component Composition]]
+[[01.02 Component Composition]]
