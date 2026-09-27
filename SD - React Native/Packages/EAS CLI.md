@@ -19,11 +19,11 @@ For development or testing
 eas build --platform android --profile development
 ```
 
-**Build Android Preview APK**
+%%**Build Android Preview APK**
 Testing a production-like app
 ```sh
 eas build --platform android --profile preview
-```
+```%%
 
 **Build Android Production APK**
 Actual release

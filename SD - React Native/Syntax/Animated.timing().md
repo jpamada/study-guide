@@ -35,4 +35,4 @@ Whether this animation creates an "interaction handle."
 Whether to run on the native thread. This is required.
 
 ___
-[[xx.04 Animated Types]]
+[[04.04 Animated Types]]

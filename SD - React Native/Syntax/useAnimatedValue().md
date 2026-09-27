@@ -21,4 +21,4 @@ const opacity = useAnimatedValue(0);
 ```
 
 ___
-[[xx.02 Animated Values]]
+[[04.02 Animated Values]]

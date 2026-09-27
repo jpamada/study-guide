@@ -18,4 +18,4 @@ const value = useRef(new Animated.Value(0)).current;
 ```
 
 ___
-[[xx.02 Animated Values]]
+[[04.02 Animated Values]]
