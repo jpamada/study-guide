@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PR - Janki/Tickets/Features.md",
+                "file": "SD - React Native/Packages/EAS CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Features"
+              "title": "EAS CLI"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -190,41 +190,41 @@
   },
   "active": "9e0663b4cbbcbdca",
   "lastOpenFiles": [
+    "PR - Janki/Tickets/Style.md",
     "PR - Janki/Tickets/Refactor.md",
+    "PR - Janki/Tickets/Improve.md",
     "PR - Janki/Tickets/Features.md",
-    "SD - React Native/Syntax/FlatList.md",
-    "SD - React Native/Syntax/ListEmptyComponent.md",
-    "SD - React Native/Learn/01.01 Components.md",
-    "SD - React Native/Learn/00.00 React Native.md",
-    "SD - TypeScript/Shortcuts.md",
-    "SD - TypeScript/Overload Resolution.md",
-    "SD - TypeScript/Callback Function.md",
-    "PR - Janki/Tech Stack/01.02 Expo Packages.md",
-    "PR - Janki/Tech Stack/01.01 Expo Commands.md",
     "PR - Janki/Tickets/Bugs.md",
-    "ME - Employment/Job Requirements/SQL Developer.md",
-    "ME - Employment/Job Requirements/Python AI.md",
-    "SD - React Native/Learn/04.04 Animated Types.md",
-    "SD - React Native/Learn/06.02 Gesture Examples.md",
     "SD - React Native/Syntax/Pan.md",
-    "ME - Quotes/Untitled.md",
-    "ME - Quotes",
-    "SD - React Native/Packages/EAS CLI.md",
-    "SD - React Native/Learn/05.01 Reanimated.md",
-    "SD - React Native/Learn/06.01 Gesture Handler.md",
+    "SD - React Native/Learn/06.02 Gesture Examples.md",
     "SD - React Native/Learn/06.02 Gesture Callbacks.md",
-    "SD - React Native/Learn/05.04 Reanimated Functions.md",
-    "SD - React Native/Syntax/useAnimatedStyle().md",
-    "05.04 Reanimated Object.md",
-    "SD - React Native/Learn/05.03 Reanimated Modifiers.md",
+    "SD - React Native/Learn/06.01 Gesture Handler.md",
+    "SD - React Native/Packages/EAS CLI.md",
+    "SD - React Native/Packages/Expo Doctor.md",
+    "PR - Janki/Tech Stack/01.01 Expo Commands.md",
+    "PR - Janki/Tech Stack/01.03 React Native Packages.md",
+    "PR - Janki/Tech Stack/01.02 Expo Packages.md",
+    "SD - JavaScript/Learn/10.01 Array Methods.md",
+    "SD - JavaScript/Learn/10.02 Array Transformation.md",
+    "SD - JavaScript/Learn/02.02 Literals.md",
+    "SD - React Native/Syntax/horizontal.md",
+    "SD - React Native/Syntax/FlatList.md",
+    "SD - React Native/Learn/01.01 Components.md",
+    "PR - Janki/Components/Themes.md",
+    "PR - Janki/Components",
+    "PR - Janki/Tech Stack/01.04 Other Packages.md",
+    "SD - React Native/Packages/React Syntax Highlighter.md",
+    "SD - React Native/Packages/React Native Syntax Highlighter.md",
+    "ScrollView.md",
+    "SD - Tanstack Query/queryKey.md",
+    "SD - Tanstack Query",
+    "ME - Quotes",
     "SD - Tailwind CSS",
     "SD - React Native/Examples",
     "SD - React/Learn",
     "SD - React Native/Learn",
     "SD - Native Wind",
     "SD - React Native/Syntax",
-    "PR - Janki/Tickets",
-    "SD - Drizzle ORM/Commands",
-    "SD - Drizzle ORM/Topics"
+    "PR - Janki/Tickets"
   ]
 }
